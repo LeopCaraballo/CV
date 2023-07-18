@@ -1,7 +1,5 @@
 # Curriculum Vitae
 
-![CV Banner](https://example.com/path/to/your/banner/image.png)
-
 Este repositorio contiene mi currículum vitae en formato PDF. Puedes acceder al archivo haciendo clic [aquí](cv.pdf).
 
 ## Descarga el CV
