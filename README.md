@@ -6,7 +6,7 @@ Este repositorio contiene mi currículum vitae en formato PDF. Puedes acceder al
 
 Si deseas descargar mi CV directamente, puedes hacerlo desde el siguiente enlace:
 
-- [Descargar CV en PDF](cv.pdf)
+- [Descargar CV en PDF](https://github.com/LeopCaraballo/CV/blob/main/2%20-%20Curriculum%20Vitae%E2%80%8B%E2%80%8B%E2%80%8B.pdf)
 
 ## Acerca de mí
 
